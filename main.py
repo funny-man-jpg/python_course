@@ -1,9 +1,4 @@
-import circle
-import rectangle
-import square
-import triangle
-import parallelogram
-import trapezoid
+from shapes import *
 
 def main():
   r = 3
